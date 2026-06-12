@@ -31,7 +31,7 @@ A modern and responsive analytics dashboard built with **React**, **Vite**, and 
 
 ## 📂 Project Structure
 
-```
+```text
 business-insights-dashboard/
 ├── public/
 ├── src/
@@ -76,7 +76,7 @@ npm run dev
 
 5. Open your browser and visit:
 
-```
+```text
 http://localhost:5173
 ```
 
@@ -106,17 +106,9 @@ Role: Admin
 - Advanced report generation
 - Export reports to PDF and CSV
 
-## 📸 Screenshots
-
-Add screenshots of your dashboard here to showcase the application's interface and functionality.
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit pull requests.
-
-## 📄 License
-
-This project is created for educational and internship purposes.
 
 ---
 
